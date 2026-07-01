@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0605-can-place-flowers](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
