@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
