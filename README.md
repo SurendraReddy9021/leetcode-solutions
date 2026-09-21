@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0035-search-insert-position) |
 | [0374-guess-number-higher-or-lower](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0561-array-partition) |
 | [1657-determine-if-two-strings-are-close](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
