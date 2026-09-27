@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0334-increasing-triplet-subsequence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2300-successful-pairs-of-spells-and-potions) |
