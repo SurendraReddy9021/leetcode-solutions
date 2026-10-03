@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2542-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0649-dota2-senate) |
+| [2542-maximum-subsequence-score](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/0215-kth-largest-element-in-an-array) |
+| [2542-maximum-subsequence-score](https://github.com/22jr1a05g7-del/https-github.com-22jr1a05g7-del-Surendra-Reddy/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
